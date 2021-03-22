@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Vo_Minh_Quan_5951071083\Vo_Minh_Quan_5951071083\obj\Debug\Vo_Minh_Quan_5951071083.Form1.resources
+C:\Users\User\source\repos\Vo_Minh_Quan_5951071083\Vo_Minh_Quan_5951071083\obj\Debug\Vo_Minh_Quan_5951071083.Properties.Resources.resources
+C:\Users\User\source\repos\Vo_Minh_Quan_5951071083\Vo_Minh_Quan_5951071083\obj\Debug\Vo_Minh_Quan_5951071083.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Vo_Minh_Quan_5951071083\Vo_Minh_Quan_5951071083\obj\Debug\Vo_Minh_Quan_5951071083.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Vo_Minh_Quan_5951071083\Vo_Minh_Quan_5951071083\bin\Debug\Vo_Minh_Quan_5951071083.exe.config
+C:\Users\User\source\repos\Vo_Minh_Quan_5951071083\Vo_Minh_Quan_5951071083\bin\Debug\Vo_Minh_Quan_5951071083.exe
+C:\Users\User\source\repos\Vo_Minh_Quan_5951071083\Vo_Minh_Quan_5951071083\bin\Debug\Vo_Minh_Quan_5951071083.pdb
+C:\Users\User\source\repos\Vo_Minh_Quan_5951071083\Vo_Minh_Quan_5951071083\obj\Debug\Vo_Minh_Quan_5951071083.exe
+C:\Users\User\source\repos\Vo_Minh_Quan_5951071083\Vo_Minh_Quan_5951071083\obj\Debug\Vo_Minh_Quan_5951071083.pdb
+C:\Users\User\source\repos\Vo_Minh_Quan_5951071083\Vo_Minh_Quan_5951071083\obj\Debug\Vo_Minh_Quan_5951071083.csprojAssemblyReference.cache
